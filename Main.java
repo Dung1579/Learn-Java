@@ -119,3 +119,5 @@
   //     System.out.println(Mydouble);  //Output: 9.75
   //   }
   // }
+
+  // "こんにちは！"
